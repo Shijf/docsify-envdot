@@ -4,7 +4,7 @@ A docsify plugin that load different parameters according to different environme
 
 ```js   
 <!-- Latest v2.x.x -->
-<script src="https://cdn.jsdelivr.net/gh/shijf/docsify-envdot.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/shijf/docsify-envdot/docsify-envdot.min.js"></script>
 ```
 
 # Use
