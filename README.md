@@ -1,11 +1,10 @@
-
 # docsify-envdot
 A docsify plugin that load different parameters according to different environments and use {{}} or cunstom
 # Installation
 
 ```js   
 <!-- Latest v2.x.x -->
-<script src="https://unpkg.com/docsify-copy-code@2"></script>
+<script src="https://cdn.jsdelivr.net/gh/shijf/docsify-envdot.min.js"></script>
 ```
 
 # Use
@@ -46,4 +45,9 @@ window.$docsify = {
 
 - code
 
+![Image text](https://cdn.jsdelivr.net/gh/shijf/docsify-envdot/source.png)
+
+
 - show 
+
+![Image text](https://cdn.jsdelivr.net/gh/shijf/docsify-envdot/show.png)
